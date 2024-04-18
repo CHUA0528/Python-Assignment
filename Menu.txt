@@ -1,0 +1,6 @@
+1, roti canai, 1.2
+2, roti with bit canai, 1.0
+3, only roti, 2.4
+4, only canai, 0.6
+5, roti with lot canai, 1.4
+6, milo ais, 2.0
